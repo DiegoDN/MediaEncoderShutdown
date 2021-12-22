@@ -36,10 +36,13 @@ pip install auto-py-to-exe
 ### Build
 To build this I've used Python 3.6 (and tried with Pyton 3.10.1).  
 
-You can run the app from IDLE IDE + Run Module F5, or use the converted windows version running *MediaEncoderShutdown.exe*
-
-
-
 ---
 ### Download
-Download ZIP from releases [v1.0](https://github.com/DiegoDN/MediaEncoderShutdown/releases/download/1.0/Media.Encoder.Shutdown.zip)  or click [here](https://github.com/DiegoDN/MediaEncoderShutdown/releases/tag/1.0)
+Python file: [click here](https://github.com/DiegoDN/MediaEncoderShutdown/blob/master/src/MediaEncoderShutdown.py) 
+
+Windows version: Download ZIP from releases [v1.0](https://github.com/DiegoDN/MediaEncoderShutdown/releases/download/1.0/Media.Encoder.Shutdown.zip)  or click [here](https://github.com/DiegoDN/MediaEncoderShutdown/releases/tag/1.0)
+
+---
+### How to Use
+You can run the app from IDLE IDE + Run Module (hit F5 key), or use the converted windows version running *MediaEncoderShutdown.exe*
+
